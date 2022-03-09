@@ -10,4 +10,4 @@ Humans are teleported into the iCub humanoid, seeing through its eyes, as their 
 Computational modeling:
 
 1.  Reservoir computing for sensorimotor sequence learning:  a form of recurrent neural network which is used to simulate sensorimotor sequence learning as in 2 above.
-2.  Language modeling 
+2.  Language modeling - we use state of the art deep language models, combined with reservoir computing, to simulate human performance, and human brain activity, during narrative processing.
